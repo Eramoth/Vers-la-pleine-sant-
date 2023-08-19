@@ -1,0 +1,15 @@
+.image {
+  border: 0px none;
+  height: 444px;
+  overflow-x: hidden;
+  width: 1296px;
+}
+
+.image .img {
+  height: 456px;
+  left: 0;
+  object-fit: cover;
+  /* position: fixed; */
+  top: 0;
+  width: 1308px;
+}

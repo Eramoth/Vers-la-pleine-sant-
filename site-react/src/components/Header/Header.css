@@ -1,0 +1,135 @@
+.header {
+  border: 1px none;
+  height: 88px;
+  overflow-x: hidden;
+  position: sticky; top: 0;
+  width: 1440px;
+}
+
+.header .overlap-group {
+  height: 88px;
+  position: relative;
+  width: 1442px;
+}
+
+.header .background {
+  background-color: #ffffff;
+  height: 88px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(180deg);
+  width: 1440px;
+}
+
+.header .rester-inform {
+  height: 88px;
+  left: 1298px;
+  position: absolute;
+  top: 0;
+  width: 144px;
+}
+
+.header .text-wrapper {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 34px;
+  white-space: nowrap;
+}
+
+.header .prendre-RDV {
+  height: 88px;
+  left: 1172px;
+  position: absolute;
+  top: 0;
+  width: 128px;
+}
+
+.header .div {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 34px;
+  white-space: nowrap;
+}
+
+.header .activits-de-groupe {
+  height: 88px;
+  left: 994px;
+  position: absolute;
+  top: 0;
+  width: 180px;
+}
+
+.header .mon-parcours {
+  height: 88px;
+  left: 858px;
+  position: absolute;
+  top: 0;
+  width: 137px;
+}
+
+.header .accompagnements {
+  height: 88px;
+  left: 681px;
+  position: absolute;
+  top: 0;
+  width: 179px;
+}
+
+.header .text-wrapper-2 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 34px;
+  width: 147px;
+}
+
+.header .titre {
+  height: 48px;
+  left: 26px;
+  position: absolute;
+  top: 20px;
+  width: 408px;
+}
+
+.header .text-wrapper-3 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.header .logo-instance {
+  background-image: url(../../assets/logo_1.png) !important;
+  height: 80px !important;
+  left: 481px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 157px !important;
+}

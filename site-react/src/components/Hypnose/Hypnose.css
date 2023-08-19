@@ -1,0 +1,50 @@
+.encad-hypnose {
+    height: 553px;
+    width: 405px;
+  }
+  
+  .encad-hypnose .overlap-group {
+    background-size: 100% 100%;
+    height: 565px;
+    position: relative;
+    width: 417px;
+  }
+  
+  .encad-hypnose .rectangle {
+    background-color: #f2f2f2b2;
+    height: 553px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 405px;
+  }
+  
+  .encad-hypnose .text-wrapper {
+    font-family: var(--h1-title-font-family);
+    font-size: var(--h1-title-font-size);
+    font-style: var(--h1-title-font-style);
+    font-weight: var(--h1-title-font-weight);
+    left: 40px;
+    letter-spacing: var(--h1-title-letter-spacing);
+    line-height: var(--h1-title-line-height);
+    position: absolute;
+    top: 477px;
+    width: 209px;
+  }
+  
+  .encad-hypnose .default {
+    background-image: url(../../assets/hypnose_background.png);
+  }
+  
+  .encad-hypnose .variant-2 {
+    background-image: url(../../assets/hypnose_background.png);
+  }
+  
+  .encad-hypnose .overlap-group.default .text-wrapper {
+    color: #f2f2f2;
+  }
+  
+  .encad-hypnose .overlap-group.variant-2 .text-wrapper {
+    color: #000000;
+  }
+  
